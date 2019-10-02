@@ -16,7 +16,7 @@ Amazonをみて分かる通り、何個かSense HATは売っている[Amazon.co.
 
 現象は
 * 起動時にSense HATが光りっぱなしになってしまう(本当は一度光った後消えるのが正しい)
-  * ```sense = SenseHat()```すると```OSError: Cannot detect RPi-Sense FB device```
+* ```sense = SenseHat()```すると```OSError: Cannot detect RPi-Sense FB device```
 
 などなど。
 とにかくRaspberry Piにつなげば動くはずのSense HATがちゃんと動かない。
