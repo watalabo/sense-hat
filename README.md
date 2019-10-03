@@ -5,10 +5,10 @@
 ## ことの始まり
 
 まず、AmaozonでSense HATが何種類か売っていて、深く考えず一番安いやつを買っちゃったのがそもそもの不幸の始まりだった。
-Amazonをみて分かる通り、何個かSense HATは売っている[Amazon.co.jp: SenseHat](https://www.amazon.co.jp/s?k=SenseHat&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2)。
+Amazonをみて分かる通り、Sense HATの売り手は何種類か存在する([Amazon.co.jp: SenseHat](https://www.amazon.co.jp/s?k=SenseHat&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2))。
 僕は
-[Amazon | Raspberry Pi Sense HAT - 6 センサー、8x8 LEDマトリックス、ジョイスティック | Raspberry Pi | インターフェースカード 通販](https://www.amazon.co.jp/dp/B014N3RAUC)
-の方を買ってしまった。
+[一番安いやつ(Raspberry Pi Sense HAT)](https://www.amazon.co.jp/dp/B014N3RAUC)
+を買ってしまった。
 
 レビューを読めば分かるのだが、思いっきり同じ症状で困っている人がいた。
 
@@ -90,3 +90,8 @@ i2cset -y -f 1 0x46 0xf3 0
 ```
 
 あとはSenseHATの再起動をしなければならないのでシャットダウン後再び起動で動いた。
+
+### 教訓
+
+安いのには理由がある。
+SenseHAT買うなら[I-O DATA製](https://www.amazon.co.jp/dp/B01N3AARYT)の方が楽。
