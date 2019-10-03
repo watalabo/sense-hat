@@ -4,10 +4,10 @@
 
 ## ことの始まり
 
-まず、AmaozonでSense HATが何種類か売っていて、深く考えず一番安いやつを買っちゃったのがそもそもの不幸の始まりだった。
-Amazonをみて分かる通り、Sense HATの売り手は何種類か存在する([Amazon.co.jp: SenseHat](https://www.amazon.co.jp/s?k=SenseHat&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2))。
+まず、AmazonでSense HATが何種類か売っていて、深く考えず一番安いやつを買っちゃったのがそもそもの不幸の始まりだった。
+Amazonをみて分かる通り、Sense HATの売り手は何種類か存在する([Amazon.co.jpのSenseHat検索結果](https://www.amazon.co.jp/s?k=SenseHat&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2))。
 僕は
-[一番安いやつ(Raspberry Pi Sense HAT)](https://www.amazon.co.jp/dp/B014N3RAUC)
+[一番安いやつ](https://www.amazon.co.jp/dp/B014N3RAUC)
 を買ってしまった。
 
 レビューを読めば分かるのだが、思いっきり同じ症状で困っている人がいた。
