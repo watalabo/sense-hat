@@ -72,7 +72,7 @@ eepromをmake。
 
 ### SenseHATへの書き込み
 
-RapsberryPiに指しておいて以下のコマンドを打てばOK。
+RapsberryPiに刺しておいて以下のコマンドを打てばOK。
 
 書き込み保護の解除。
 ```
